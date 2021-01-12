@@ -8,7 +8,7 @@
 <!-- - 🔭 I just launched my first blog post: [Coming soon]()! -->
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other maintainer
-- 🥅 2021 Goals:
+- 🥅 2021 Goals: Creating Multiple Post (30) to Share my Knowledge :)
 
 ### Connect with me:
 
@@ -31,6 +31,13 @@
 
 <br />
 <br />
+
+### Cool Things TO-DO
+
+Upcoming Post(s)
+- [ ] LVM Project
+- [ ] Regex Crash Course
+- [ ] Regex Crash Course [ID]
 
 ---
 
