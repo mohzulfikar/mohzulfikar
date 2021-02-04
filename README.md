@@ -35,9 +35,10 @@
 ### Cool Things TO-DO
 
 Upcoming Post(s)
-- [ ] LVM Project
-- [ ] Regex Crash Course
-- [ ] Regex Crash Course [ID]
+- [ ] AWS Lightsail
+- [ ] Regex In One Page
+- [ ] Regex In One Page [ID]
+- [ ] And many In One Page series coming...
 
 ---
 
