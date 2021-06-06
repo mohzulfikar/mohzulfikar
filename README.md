@@ -62,4 +62,4 @@ Upcoming Post(s)
 
 [website]: https://mohzulfikar.me
 [twitter]: https://twitter.com/mohzulfikar0
-[linkedin]: https://www.linkedin.com/in/moh-zulfikar/
+[linkedin]: https://www.linkedin.com/in/mohzulfikar/
