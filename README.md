@@ -38,6 +38,7 @@ Upcoming Post(s)
 - [ ] AWS Lightsail
 - [ ] Regex In One Page
 - [ ] Regex In One Page [ID]
+- [ ] Dapr Exploration
 - [ ] And many In One Page series coming...
 
 ---
