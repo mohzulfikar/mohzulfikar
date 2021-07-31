@@ -8,6 +8,7 @@
 <!-- - 🔭 I just launched my first blog post: [Coming soon]()! -->
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other maintainer
+- 🗣️ I'm looking for speakers opportunity in the community
 - 🥅 2021 Goals: Creating Multiple Post (30) to Share my Knowledge :)
 
 ### Connect with me:
