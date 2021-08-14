@@ -5,7 +5,6 @@
 
 ## I'm a Student, Developer, and Open-source Enthusiast!!
 
-<!-- - 🔭 I just launched my first blog post: [Coming soon]()! -->
 - 🌱 I’m currently learning about distributed system
 - 👯 I’m looking to collaborate with other maintainer
 - 🗣️ I'm looking for speakers opportunity in the community
@@ -24,6 +23,7 @@
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -36,6 +36,7 @@
 ### Cool Things TO-DO
 
 Upcoming Post(s)
+
 - [ ] AWS Lightsail
 - [ ] Regex In One Page
 - [ ] Regex In One Page [ID]
