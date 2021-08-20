@@ -42,6 +42,7 @@ Upcoming Post(s)
 - [ ] Regex In One Page [ID]
 - [ ] Dapr Building Blocks
 - [ ] Dapr in K8s vs VMs
+- [ ] K8s Journey [ID]
 - [ ] And many In One Page series coming...
 
 ---
