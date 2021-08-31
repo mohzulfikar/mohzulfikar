@@ -48,6 +48,13 @@ Upcoming Post(s)
 ---
 
 <details>
+  <summary>:zap: Curriculum Vitae</summary>
+
+  [My CV](./Mohammad_Zulfikar_CV.pdf)
+
+</details>
+
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
