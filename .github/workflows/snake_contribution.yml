@@ -28,22 +28,24 @@ jobs:
 
     # Generates the snake  
       - name: Generate the contribution's snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake.svg
-
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       # - name: Generate the contribution's snake (for light mode)
       #   uses: Platane/snk@master
       #   with:
       #     github_user_name: ${{ github.repository_owner }}
       #     svg_out_path: dist/github-snake-light.svg?palette=github-light
 
-      - name: Generate the contribution's snake (for dark mode)
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake-dark.svg?palette=github-dark
+#       - name: Generate the contribution's snake (for dark mode)
+#         uses: Platane/snk@master
+#         with:
+#           github_user_name: ${{ github.repository_owner }}
+#           svg_out_path: dist/github-snake-dark.svg?palette=github-dark
         
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - name: Show status (for debugging purpose)
