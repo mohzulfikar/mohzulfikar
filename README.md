@@ -72,6 +72,9 @@ Upcoming Post(s)
 
 </details>
 
+![GitHub Snake Light](https://github.com/mohzulfikar/mohzulfikar/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/mohzulfikar/mohzulfikar/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
 [website]: https://mohzulfikar.me
 [twitter]: https://twitter.com/mohzulfikar0
 [linkedin]: https://www.linkedin.com/in/mohzulfikar/
