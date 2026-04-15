@@ -1,4 +1,4 @@
-### Hi there, I'm Fikar - aka [mohzulfikar][website] 👋
+### Hi there, I'm Fikar - aka mohzulfikar 👋
 
 ## I'm a Student, Developer, and Open-source Enthusiast!!
 
