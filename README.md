@@ -1,9 +1,5 @@
 ### Hi there, I'm Fikar - aka [mohzulfikar][website] 👋
 
-[![Website](https://img.shields.io/website?label=mohzulfikar.me&style=for-the-badge&url=http%3A%2F%2Fmohzulfikar.me)](https://mohzulfikar.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mohzulfikar0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmohzulfikar&screen_name=mohzulfikar0)
-[![Linkedin Connect](https://img.shields.io/static/v1?label=Linkedin&message=Connect&color=blue&style=for-the-badge&logo=linkedin&logoColor=skyblue)](https://linkedin.com/in/mohzulfikar)
-
 ## I'm a Student, Developer, and Open-source Enthusiast!!
 
 - 🌱 I’m currently learning about distributed system
